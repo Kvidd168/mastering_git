@@ -1,4 +1,3 @@
-## Hello Konpapa Welcome to GIT
+## Hello, Git!
 
--This is Johnny
 -Im Adding This From 'Feature-Branch'.
